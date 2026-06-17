@@ -21,7 +21,6 @@ This repository contains the scripts used for the data analysis in the study:
 
 ## Summary
 
-XXX
 
 ---
 
@@ -41,7 +40,6 @@ https://pubmed.ncbi.nlm.nih.gov/32100173/
 
 ### 1. Upstream Analysis
 **Location:** [`01.Upstream_analysis`](https://github.com/GRONINGEN-MICROBIOME-CENTRE/Chiliadal_virome/tree/main/01.Upstream_analysis)
-**Location:** ``
 
 This section contains scripts for raw data processing up to the generation of RPKM tables.
 
