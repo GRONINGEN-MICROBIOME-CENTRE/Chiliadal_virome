@@ -11,7 +11,6 @@ This repository contains the scripts used for the data analysis in the study:
 - [Summary](#summary)
 - [Cohort](#cohort)
 - [Code Overview](#code-overview)
-- [Data Availability](#data-availability)
 - [System Requirements](#system-requirements)
 - [Installation and Runtime](#installation-and-runtime)
 - [Citation](#citation)
@@ -60,22 +59,6 @@ This section contains scripts for:
 Scripts are organized into analysis-type-specific subfolders.
 
 Each folder includes a README with further details.
-
----
-
-## Data Availability
-
-Sample information, timepoints, clinical metadata, family structure, and quality-trimmed, human-contaminant-free metagenomic and VLP sequencing reads are available in the **European Genome-phenome Archive (EGA)** under study IDs:
-
-- EGAS50000000133  
-
-Additional source data, including redundant viral sequences, the NEXT virome catalog, and associated metadata, are available via [**FigShare**](https://doi.org/10.6084/m9.figshare.32685267 ).
-
-For reproducibility, we recommend using the full FigShare dataset for downstream analyses.
-
-For upstream analyses, any subset of samples from the original study can be used. Outputs may vary depending on the selected subset, but should converge on the same set of identified viruses and associated metadata.
-
-The reference output is available in the `NEXT_virome_catalog` folder.
 
 ---
 
